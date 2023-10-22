@@ -9,6 +9,10 @@ login /signup with django authentication.
 
 
 
+https://github.com/NiranjanBhat123/acadeMeet/assets/111105882/9bb1f820-6e69-4442-9aae-db206358118d
+
+
+
 browse all rooms and see recent activities.
 
 
